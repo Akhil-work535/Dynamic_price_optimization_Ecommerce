@@ -52,6 +52,12 @@ This project implements a **data-driven dynamic pricing system** that suggests o
 - Data-driven pricing can improve revenue by **~12–15%**
 - Dynamic pricing helps balance **competitiveness & profitability**
 
+## 🧮 SQL & Excel Analysis
+- Performed pricing, discount, and competitor analysis using MySQL
+- Validated discount data and calculated revenue using SQL
+- Built an Excel KPI dashboard to evaluate price–demand and discount effectiveness
+
+
 ## 📊 Power BI Dashboard Highlights
 The accompanying dashboard visualizes:
 - Price vs Revenue trends over time
