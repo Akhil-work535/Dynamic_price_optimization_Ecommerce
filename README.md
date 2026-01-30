@@ -85,4 +85,4 @@ The accompanying dashboard visualizes:
 ## 👤 Author
 Akhil  
 Aspiring Data Analyst  
-LinkedIn: http://www.linkedin.com/in/vankayalapati-akhil
+🔗 [LinkedIn](http://www.linkedin.com/in/vankayalapati-akhil)
